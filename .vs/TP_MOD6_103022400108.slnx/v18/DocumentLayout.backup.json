@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\TP_MOD6_103022400108\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D002E65-22BF-4478-A81D-377DE02F200C}|TP_MOD6_103022400108\\TP_MOD6_103022400108.csproj|c:\\users\\ardi setya permana\\documents\\tugas\\projek kpl tugas tp\\tp_mod6_103022400108\\tp_mod6_103022400108\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D002E65-22BF-4478-A81D-377DE02F200C}|TP_MOD6_103022400108\\TP_MOD6_103022400108.csproj|solutionrelative:tp_mod6_103022400108\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BDF5A5-DE45-B55E-6158-8BE8752BA7F8}|TP_MOD6_103022400108\\TP_MOD6_103022400108.csproj|c:\\users\\ardi setya permana\\documents\\tugas\\projek kpl tugas tp\\tp_mod6_103022400108\\tp_mod6_103022400108\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BDF5A5-DE45-B55E-6158-8BE8752BA7F8}|TP_MOD6_103022400108\\TP_MOD6_103022400108.csproj|solutionrelative:tp_mod6_103022400108\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BDF5A5-DE45-B55E-6158-8BE8752BA7F8}|TP_MOD6_103022400108\\TP_MOD6_103022400108.csproj|c:\\users\\ardi setya permana\\documents\\tugas\\projek kpl tugas tp\\tp_mod6_103022400108\\tp_mod6_103022400108\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BDF5A5-DE45-B55E-6158-8BE8752BA7F8}|TP_MOD6_103022400108\\TP_MOD6_103022400108.csproj|solutionrelative:tp_mod6_103022400108\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +32,20 @@
               "RelativeDocumentMoniker": "TP_MOD6_103022400108\\Program.cs",
               "ToolTip": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\TP_MOD6_103022400108\\TP_MOD6_103022400108\\Program.cs",
               "RelativeToolTip": "TP_MOD6_103022400108\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T04:00:35.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaMusicTrack.cs",
+              "DocumentMoniker": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\TP_MOD6_103022400108\\TP_MOD6_103022400108\\SayaMusicTrack.cs",
+              "RelativeDocumentMoniker": "TP_MOD6_103022400108\\SayaMusicTrack.cs",
+              "ToolTip": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\TP_MOD6_103022400108\\TP_MOD6_103022400108\\SayaMusicTrack.cs",
+              "RelativeToolTip": "TP_MOD6_103022400108\\SayaMusicTrack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T03:46:09.013Z",
               "EditorCaption": ""
